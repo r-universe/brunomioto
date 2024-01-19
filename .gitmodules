@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/brunomioto/brunomioto.r-universe.dev
 	branch = HEAD
+[submodule "brasileirao"]
+	path = brasileirao
+	url = https://github.com/williamorim/brasileirao
+	registered = false
 [submodule "futebolplotR"]
 	path = futebolplotR
 	url = https://github.com/brunomioto/futebolplotR
