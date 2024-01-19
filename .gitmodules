@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/brunomioto/universe
-	shallow = true
 	branch = HEAD
 [submodule "reservatoriosBR"]
 	path = reservatoriosBR
 	url = https://github.com/brunomioto/reservatoriosBR
-	shallow = true
-	registered = true
