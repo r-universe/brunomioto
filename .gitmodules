@@ -1,7 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/brunomioto/universe
+	url = https://github.com/brunomioto/brunomioto.r-universe.dev
 	branch = HEAD
+[submodule "futebolplotR"]
+	path = futebolplotR
+	url = https://github.com/brunomiot/futebolplotR
+	subdir = pkg
 [submodule "reservatoriosBR"]
 	path = reservatoriosBR
 	url = https://github.com/brunomioto/reservatoriosBR
