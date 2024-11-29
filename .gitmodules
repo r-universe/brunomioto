@@ -4,8 +4,7 @@
 	branch = HEAD
 [submodule "futebolplotR"]
 	path = futebolplotR
-	url = https://github.com/brunomiot/futebolplotR
-	subdir = pkg
+	url = https://github.com/brunomioto/futebolplotR
 [submodule "reservatoriosBR"]
 	path = reservatoriosBR
 	url = https://github.com/brunomioto/reservatoriosBR
